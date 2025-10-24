@@ -8,4 +8,7 @@ $mivariable = "Soy variable 2";
 $mibariable = "Soy variable 3";
 
 echo "Variable 3 contiene" . $mibariable;
+
+
+
 ?>
